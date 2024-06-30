@@ -24,4 +24,4 @@ Temukan exe-nya, lalu jalankan.
 
 ## Link untuk Traktir
 
-- https://karyakarsa.com/rakifsul
+- https://karyakarsa.com/rakifsul/info
