@@ -23,5 +23,5 @@ Find the exe, then run it.
 ## Screenshot
 
 <p align="center">
-	<img src="./.md_asset/ss-1.png" />
+	<img src="./.md_asset/ss_2024.07.10-0625.png" />
 </p>
