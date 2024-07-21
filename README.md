@@ -16,6 +16,10 @@ If a key press is detected, the procedure to play the sound will be executed.
 
 Download this app on "Releases" page.
 
+## Where are the Source Codes
+
+Source codes are included in the zip along with the executables.
+
 ## How to Use
 
 Find the exe, then run it.

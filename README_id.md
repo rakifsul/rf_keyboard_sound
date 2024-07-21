@@ -12,6 +12,10 @@ Jika terdeteksi ditekan, maka prosedur untuk memainkan suara akan dijalankan.
 
 Download aplikasi ini di halaman "Releases".
 
+## Di Mana Source Code-nya
+
+Source code ada di dalam paket zip bersama executable-nya.
+
 ## Cara Penggunaan
 
 Temukan exe-nya, lalu jalankan.
