@@ -35,7 +35,7 @@ Find the exe, then run it.
 
 - https://projects.co.id/public/browse_users/view/99bc11/rakifsul
 
-<details>
+</details>
 
 <details>
 <summary>Bahasa Indonesia</summary>
@@ -72,6 +72,6 @@ Temukan exe-nya, lalu jalankan.
 
 - https://projects.co.id/public/browse_users/view/99bc11/rakifsul
 
-<details>
+</details>
 
 
